@@ -24,7 +24,7 @@ import java.util.LinkedList;
 import java.util.HashMap;
 
 public class BouncyDroid extends Activity {
-    static final boolean DEBUG = true;
+    static final boolean DEBUG = false;
     static final boolean CENTER_DROID = true;
 
     public static class BouncyView extends FrameLayout
